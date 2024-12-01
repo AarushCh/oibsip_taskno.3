@@ -21,8 +21,11 @@ Represents a single transaction in the ATM system, such as a withdrawal, deposit
 
 ## Future Enhancements
 Integrate a database (such as MySQL or SQLite) for persistent storage of user data and transaction history.
+
 Implement a graphical user interface (GUI) using Java Swing or JavaFX for a more user-friendly experience.
+
 Add enhanced security features, such as encryption for user PIN and session management.
+
 Allow multi-language support to cater to a global audience.
 
 # Developed By Ch Aarush Udbhav
